@@ -1,4 +1,4 @@
-﻿# [Kly_Men_COmpany](https://github.com/aleksusklim/Kly_Men_COmpany "Kly_Men_COmpany")/[Games](https://github.com/aleksusklim/Kly_Men_COmpany/tree/master/Games "Kly_Men_COmpany/Games/")/[sharpgame](https://github.com/aleksusklim/sharpgame "Kly_Men_COmpany/Games/sharpgame/")/
+﻿# [Kly_Men_COmpany](https://github.com/aleksusklim/Kly_Men_COmpany "Kly_Men_COmpany")/[Games](https://github.com/aleksusklim/Kly_Men_COmpany/tree/master/Games "Kly_Men_COmpany/Games/")/[SharpGame](https://github.com/aleksusklim/SharpGame "Kly_Men_COmpany/Games/SharpGame/")/
 
 The project is stored in [project/Game.sln](./project/Game.sln).
 
